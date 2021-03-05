@@ -1,0 +1,9 @@
+prettytable
+requests
+aiohttp
+aiofiles
+scipy
+pillow
+numpy
+
+# pip install -r requirement.txt
